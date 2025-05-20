@@ -405,6 +405,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -2709,7 +2722,111 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cave_objects_source_0: 4728767941859157659
+      Cave_objects_source_1: 7553958889275012004
+      Cave_objects_source_10: -1126100407546635876
+      Cave_objects_source_100: 3988323501239561029
+      Cave_objects_source_101: 6102187145554395777
+      Cave_objects_source_102: 6146890279497938731
+      Cave_objects_source_103: 3677893245650513272
+      Cave_objects_source_11: -2182042548521192445
+      Cave_objects_source_12: -2238360757831947974
+      Cave_objects_source_13: -3216446475647219462
+      Cave_objects_source_14: 6709584840915775285
+      Cave_objects_source_15: 2552517323646104818
+      Cave_objects_source_16: 6285110619834588568
+      Cave_objects_source_17: 2610567866908790725
+      Cave_objects_source_18: 6043907996677435816
+      Cave_objects_source_19: 2366583747358647420
+      Cave_objects_source_2: -8793954127574350379
+      Cave_objects_source_20: 2037299190688057348
+      Cave_objects_source_21: -5503893861929160381
+      Cave_objects_source_22: -8384749822482878499
+      Cave_objects_source_23: -4050152631370754650
+      Cave_objects_source_24: 8840396993076480274
+      Cave_objects_source_25: -1149595296191914692
+      Cave_objects_source_26: 346025172246283423
+      Cave_objects_source_27: 1064210442795951300
+      Cave_objects_source_28: 7075441626259149603
+      Cave_objects_source_29: 4912554295744441569
+      Cave_objects_source_3: 3543939994411300776
+      Cave_objects_source_30: -3255618596976972628
+      Cave_objects_source_31: -577557013994781770
+      Cave_objects_source_32: -8588651395565651084
+      Cave_objects_source_33: 3678854770709235840
+      Cave_objects_source_34: 5047416714749934524
+      Cave_objects_source_35: 2536442397115813878
+      Cave_objects_source_36: 1711700269975548182
+      Cave_objects_source_37: -1978311318837846915
+      Cave_objects_source_38: -6558143488648549191
+      Cave_objects_source_39: -110133229657386507
+      Cave_objects_source_4: -5624217974937480535
+      Cave_objects_source_40: 4229447223846311614
+      Cave_objects_source_41: 5070610284245053855
+      Cave_objects_source_42: -65771302724821442
+      Cave_objects_source_43: -956150347806007738
+      Cave_objects_source_44: -8365790115136139895
+      Cave_objects_source_45: 4058724651423561260
+      Cave_objects_source_46: 2169699754678144020
+      Cave_objects_source_47: -4506720887741391664
+      Cave_objects_source_48: 6559938813785764107
+      Cave_objects_source_49: -6955566285970249620
+      Cave_objects_source_5: 3453489505490491977
+      Cave_objects_source_50: 7586339205482818611
+      Cave_objects_source_51: 4988772362698627017
+      Cave_objects_source_52: 4853269510063158715
+      Cave_objects_source_53: -4233332192258782848
+      Cave_objects_source_54: -7463389434514307075
+      Cave_objects_source_55: -971274483945157034
+      Cave_objects_source_56: -1648746544908830343
+      Cave_objects_source_57: 4174222592216834105
+      Cave_objects_source_58: -5986229861757288031
+      Cave_objects_source_59: 8094998309244961882
+      Cave_objects_source_6: 3377964693883871527
+      Cave_objects_source_60: -1818532784982998776
+      Cave_objects_source_61: 4711901889385918934
+      Cave_objects_source_62: 2152120253096028314
+      Cave_objects_source_63: 6812052732225564203
+      Cave_objects_source_64: 6754990680752500520
+      Cave_objects_source_65: 5663222687153522766
+      Cave_objects_source_66: 5421717311222139362
+      Cave_objects_source_67: 782443041484700700
+      Cave_objects_source_68: -4995105554207911998
+      Cave_objects_source_69: -5721080254502598058
+      Cave_objects_source_7: 6674020307270321034
+      Cave_objects_source_70: 5698012681482600216
+      Cave_objects_source_71: 871854614597582620
+      Cave_objects_source_72: 4513414276362672343
+      Cave_objects_source_73: -5884960335422047362
+      Cave_objects_source_74: 7710252471991665042
+      Cave_objects_source_75: -948507148201113240
+      Cave_objects_source_76: -2307626619699178542
+      Cave_objects_source_77: -7043366994782292540
+      Cave_objects_source_78: -9143214128496860969
+      Cave_objects_source_79: -5673940361107324871
+      Cave_objects_source_8: -5835318506329155631
+      Cave_objects_source_80: -5134238282794010370
+      Cave_objects_source_81: -4364059003693638905
+      Cave_objects_source_82: 1551188234021849307
+      Cave_objects_source_83: -3876064019226912226
+      Cave_objects_source_84: 898093672878852127
+      Cave_objects_source_85: -2713866480721355668
+      Cave_objects_source_86: -6237076041489539293
+      Cave_objects_source_87: 4114716162761993579
+      Cave_objects_source_88: -7854519398620675536
+      Cave_objects_source_89: -7270511301916653965
+      Cave_objects_source_9: 732049723221067487
+      Cave_objects_source_90: 2981235610647357036
+      Cave_objects_source_91: 9072466398273498807
+      Cave_objects_source_92: -7025431789329585571
+      Cave_objects_source_93: 6328482674089853535
+      Cave_objects_source_94: -6156886994255100244
+      Cave_objects_source_95: 1985727355619392268
+      Cave_objects_source_96: -2610485269924258027
+      Cave_objects_source_97: -6927311530967916142
+      Cave_objects_source_98: 2971965611395015389
+      Cave_objects_source_99: -6926043076406753099
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

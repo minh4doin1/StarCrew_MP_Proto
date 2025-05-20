@@ -222,6 +222,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1184,7 +1197,50 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Iconset10_0: -3262913521070501058
+      Iconset10_1: -5877257401526981851
+      Iconset10_10: 3577377927914943446
+      Iconset10_11: 5769543577064566719
+      Iconset10_12: 8355083859541203563
+      Iconset10_13: 3691145096276509281
+      Iconset10_14: -8988578326597858412
+      Iconset10_15: -46381794136612436
+      Iconset10_16: 4095509661475449876
+      Iconset10_17: 42536648201497884
+      Iconset10_18: -5928778472547284481
+      Iconset10_19: -3801263106978891032
+      Iconset10_2: 634873508244869076
+      Iconset10_20: -7391051216588121495
+      Iconset10_21: 8156905656888594568
+      Iconset10_22: -4535773404231746949
+      Iconset10_23: -8304007731455991433
+      Iconset10_24: 5636776437111025239
+      Iconset10_25: 8617532259287494135
+      Iconset10_26: 895902192832271342
+      Iconset10_27: 4478261418356014615
+      Iconset10_28: 5173030773711223872
+      Iconset10_29: -7916083254798909696
+      Iconset10_3: -5767560138009889121
+      Iconset10_30: -1742798101246458096
+      Iconset10_31: 1576820753600526926
+      Iconset10_32: 6792725032648734386
+      Iconset10_33: 5617370920508723534
+      Iconset10_34: -940921611678063768
+      Iconset10_35: -5144828896131840633
+      Iconset10_36: -7925873348054091263
+      Iconset10_37: -1125172424352554676
+      Iconset10_38: 392471471907304624
+      Iconset10_39: -4533704567030017528
+      Iconset10_4: -8270981710884852301
+      Iconset10_40: -5169144255359917008
+      Iconset10_41: -2940843063865957260
+      Iconset10_42: -2050039838847430962
+      Iconset10_5: -5651804585536170518
+      Iconset10_6: -397487758587970903
+      Iconset10_7: -2095152962515102234
+      Iconset10_8: 7977875073704243949
+      Iconset10_9: 5984362380176345705
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
